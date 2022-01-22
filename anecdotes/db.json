@@ -1,0 +1,24 @@
+{
+  "anecdotes": [
+    {
+      "content": "testing new anecdote 2",
+      "votes": 67,
+      "id": "4A5plnn"
+    },
+    {
+      "content": "testing new anecdote 3",
+      "votes": 49,
+      "id": "IDBVM0o"
+    },
+    {
+      "content": "testing new anecdote 4",
+      "votes": 18,
+      "id": "03Fi1AW"
+    },
+    {
+      "content": "testing connect",
+      "votes": 1,
+      "id": "j_eA1DP"
+    }
+  ]
+}
